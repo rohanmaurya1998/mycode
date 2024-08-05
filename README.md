@@ -1,2 +1,2 @@
 # mycode
-python code's
+C++ code's
